@@ -113,7 +113,7 @@ Each story defines the user, the objective, and includes acceptance criteria to 
 
 *Impact Mapping* was used as a strategic tool to connect business objectives with the expected actions and behaviors of users. This method allowed us to identify the main actors, their impact on achieving goals, and the deliverables necessary to drive those changes. In the context of **EnerSafe IoT**, the impact map facilitated alignment between *Business Goals* and the requirements of the IoT-based monitoring system, ensuring that each development directly contributes to improving electrical safety, operational efficiency, and risk prevention in the energy sector.
 
-![Impact Mapping EnerSafe IoT](../assets/images/chap3/Impact%20map%202.png)
+![Impact Mapping EnerSafe IoT](assets/images/chap3/Impact%20map%202.png)
 
 
 ## **3.3 Product Backlog**
